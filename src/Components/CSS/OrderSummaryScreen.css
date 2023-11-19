@@ -1,0 +1,23 @@
+.orderSummary__container{
+    background-color: white;
+    height: 824px;
+    width: 411px;
+    border-radius: 32px;
+}
+.footer__button{
+    width: 411px;
+height: 40.905px;
+flex-shrink: 0;
+border-radius: 0px 0px 32px 32px;
+background: #000;
+color: white;
+display: flex;
+margin-top: -9px;
+align-items: center;
+justify-content: center;
+border-style: none;
+}
+
+.footer__button:hover{
+      cursor: pointer;
+}
